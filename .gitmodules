@@ -1,0 +1,3 @@
+[submodule "Vectorize"]
+	path = Vectorize
+	url = https://github.com/GSBhub/Vectorize
